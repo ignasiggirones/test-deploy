@@ -1,0 +1,271 @@
+id,muscle_group,exercise,level,target,push_pull,modality,joint
+1,Abdominals - Lower,Full Reverse Crunch,Advanced,Core,Push,FW,M
+2,Abdominals - Lower,Incline Hip Thrust,Advanced,Core,Push,FW,M
+3,Abdominals - Lower,Incline Reverse Crunch,Advanced,Core,Push,FW,M
+4,Abdominals - Lower,Lying Hip Thrust,Advanced,Core,Push,FW,M
+5,Abdominals - Lower,Reverse Crunch,Beginner,Core,Push,FW,M
+6,Abdominals - Lower,Reverse Medicine Ball Crunch,Advanced,Core,Push,FW,M
+7,Abdominals - Obliques,Alternating Heel Touch,Beginner,Core,Push,FW,M
+8,Abdominals - Obliques,Bent-Knee Medicine Ball Hip Rotation,Advanced,Core,Push,FW,M
+9,Abdominals - Obliques,Cable Chop,Advanced,Core,Push,C,M
+10,Abdominals - Obliques,Cross Crunch,Beginner,Core,Push,FW,M
+11,Abdominals - Obliques,Cross Crunch w/ Medicine Ball,Advanced,Core,Push,FW,M
+12,Abdominals - Obliques,Decline Cross Sit-Up,Advanced,Core,Push,FW,M
+13,Abdominals - Obliques,Decline Sit-Up w/ Twist,Advanced,Core,Push,FW,M
+14,Abdominals - Obliques,Reverse Cable Chop,Advanced,Core,Push,C,M
+15,Abdominals - Obliques,Seated Medicine Ball Twist,Advanced,Core,Push,FW,M
+16,Abdominals - Obliques,Trunk Rotator,Advanced,Core,Push,FW,M
+17,Abdominals - Total,Front Plank (from knees),Beginner,Core,Static,FW,M
+18,Abdominals - Total,Front Plank (from toes),Intermediate,Core,Static,FW,M
+19,Abdominals - Total,Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm),Advanced,Core,Static,FW,M
+20,Abdominals - Total,Side-Plank (from knees),Intermediate,Core,Static,FW,M
+21,Abdominals - Total,Side-Plank (hip lift),Beginner,Core,Static,FW,M
+22,Abdominals - Total,Side-Plank (from toes),Advanced,Core,Static,FW,M
+23,Abdominals - Total,Ab Cycle,Advanced,Core,Push,FW,M
+24,Abdominals - Total,Kneeling Ab Rollout,Intermediate,Core,Push,FW,M
+25,Abdominals - Total,Medicine Ball V-Up,Advanced,Core,Push,FW,M
+26,Abdominals - Total,V-Up,Beginner,Core,Push,FW,M
+27,Abdominals - Total,Weighted V-Up,Intermediate,Core,Push,FW,M
+28,Abdominals - Upper,Bent Knee Sit-Up,Beginner,Core,Push,FW,M
+29,Abdominals - Upper,Bent-Knee Crunch,Beginner,Core,Push,FW,M
+30,Abdominals - Upper,Crunch,Beginner,Core,Push,FW,M
+31,Abdominals - Upper,Crunch,Beginner,Core,Push,FW,M
+32,Abdominals - Upper,Decline Crunch,Advanced,Core,Push,FW,M
+33,Abdominals - Upper,Decline Sit-Up,Advanced,Core,Push,FW,M
+34,Abdominals - Upper,Heel Touch,Beginner,Core,Push,FW,M
+35,Abdominals - Upper,Sit-Up,Beginner,Core,Push,FW,M
+36,Abdominals - Upper,Weighted Crunch,Intermediate,Core,Push,FW,M
+37,Back - Latissimus Dorsi,Assisted Pull-Up,Beginner,Upper,Pull,FW,M
+38,Back - Latissimus Dorsi,Close-Grip Lat Pulldown,Beginner,Upper,Pull,MA,M
+39,Back - Latissimus Dorsi,Inverted Pull-Up,Advanced,Upper,Pull,FW,M
+40,Back - Latissimus Dorsi,Lat Pulldown,Beginner,Upper,Pull,C,M
+41,Back - Latissimus Dorsi,Pull-Up,Beginner,Upper,Pull,FW,M
+42,Back - Latissimus Dorsi,Reverse-Grip Lat Pullown,Intermediate,Upper,Pull,C,M
+43,Back - Latissimus Dorsi,Reverse-Grip Pull-Up,Advanced,Upper,Pull,FW,M
+44,Back - Latissimus Dorsi,V-Bar Pull-Up,Advanced,Upper,Pull,FW,M
+45,Back - Latissimus Dorsi,Wide-Grip Lat Pulldown,Beginner,Upper,Pull,C,M
+46,Back - Lat.Dorsi/Rhomboids,Bent-Over Alternating Dumbbell Row,Intermediate,Upper,Pull,FW,M
+47,Back - Lat.Dorsi/Rhomboids,Bent-Over Barbell Row,Beginner,Upper,Pull,FW,M
+48,Back - Lat.Dorsi/Rhomboids,Bent-Over Dumbbell Row,Beginner,Upper,Pull,FW,M
+49,Back - Lat.Dorsi/Rhomboids,Bent-Over Hammer Dumbbell Row,Beginner,Upper,Pull,FW,M
+50,Back - Lat.Dorsi/Rhomboids,Bent-Over Long Barbell Row,Intermediate,Upper,Pull,FW,M
+51,Back - Lat.Dorsi/Rhomboids,Bent-Over Reverse-Grip Barbell Row,Advanced,Upper,Pull,FW,M
+52,Back - Lat.Dorsi/Rhomboids,Bent-Over Single-Arm Long Barbell Row,Advanced,Upper,Pull,FW,M
+53,Back - Lat.Dorsi/Rhomboids,Machine Row,Beginner,Upper,Pull,MA,M
+54,Back - Lat.Dorsi/Rhomboids,One Arm Dumbbell Row,Beginner,Upper,Pull,FW,M
+55,Back - Lat.Dorsi/Rhomboids,Reverse Incline Dumbbell Row,Advanced,Upper,Pull,FW,M
+56,Back - Lat.Dorsi/Rhomboids,Rope Cable Row,Intermediate,Upper,Pull,C,M
+57,Back - Lat.Dorsi/Rhomboids,Seated Cable Row,Beginner,Upper,Pull,C,M
+58,Back - Lat.Dorsi/Rhomboids,Seated Row,Beginner,Upper,Pull,C,M
+59,Back - Lat.Dorsi/Rhomboids,Single-Arm Cable Row,Intermediate,Upper,Pull,C,M
+60,Back - Lat.Dorsi/Rhomboids,Single-Arm Dumbbell Row,Beginner,Upper,Pull,FW,M
+61,Back - Lat.Dorsi/Rhomboids,Single-Arm Lat Pulldown,Intermediate,Upper,Pull,C,M
+62,Back - Lat.Dorsi/Rhomboids,Standing Cable Row,Beginner,Upper,Pull,C,M
+63,Back - Lat.Dorsi/Rhomboids,Standing Single-Arm Cable Row,Intermediate,Upper,Pull,C,M
+64,Biceps,Alternating Dumbbell Curl,Beginner,Upper,Pull,FW,S
+65,Biceps,Alternating Hammer Curl,Beginner,Upper,Pull,FW,S
+66,Biceps,Barbell Curl,Beginner,Upper,Pull,FW,S
+67,Biceps,Bicep Curl,Beginner,Upper,Pull,FW,S
+68,Biceps,Bottom/Top/Full Curls,Advanced,Upper,Pull,FW,S
+69,Biceps,Cable Curl,Intermediate,Upper,Pull,C,S
+70,Biceps,Concentration Dumbbell Curl,Intermediate,Upper,Pull,FW,S
+71,Biceps,Cross Body Hammer Curl,Advanced,Upper,Pull,FW,S
+72,Biceps,Dumbbell Curl,Beginner,Upper,Pull,FW,S
+73,Biceps,EZ-Bar Curl,Intermediate,Upper,Pull,FW,S
+74,Biceps,Hammer Curl,Beginner,Upper,Pull,FW,S
+75,Biceps,Incline Alternating Dumbbell Curl,Advanced,Upper,Pull,FW,S
+76,Biceps,Incline Alternating Hammer Curl,Advanced,Upper,Pull,FW,S
+77,Biceps,Incline Dumbbell Curl,Advanced,Upper,Pull,FW,S
+78,Biceps,Incline Hammer Curl,Advanced,Upper,Pull,FW,S
+79,Biceps,Kneeling Cable Curl,Beginner,Upper,Pull,C,S
+80,Biceps,Lying Cable Curl,Intermediate,Upper,Pull,C,S
+81,Biceps,Lying Double Biceps Cable Curl,Intermediate,Upper,Pull,C,S
+82,Biceps,Lying High Cable Curl,Advanced,Upper,Pull,C,S
+83,Biceps,Machine Curl,Beginner,Upper,Pull,MA,S
+84,Biceps,Overhead Double Biceps Cable Curl,Advanced,Upper,Pull,C,S
+85,Biceps,Overhead Rope Cable Curl,Advanced,Upper,Pull,C,S
+86,Biceps,Preacher Barbell Curl,Advanced,Upper,Pull,FW,S
+87,Biceps,Preacher Cable Curl,Advanced,Upper,Pull,C,S
+88,Biceps,Preacher Dumbbell Curl,Intermediate,Upper,Pull,FW,S
+89,Biceps,Preacher EZ-Bar Curl,Advanced,Upper,Pull,FW,S
+90,Biceps,Preacher Hammer Dumbbell Curl,Intermediate,Upper,Pull,FW,S
+91,Biceps,Preacher Single-Arm Dumbbell Curl,Intermediate,Upper,Pull,FW,S
+92,Biceps,Reverse Curl,Advanced,Upper,Pull,FW,S
+93,Biceps,Rope Cable Curl,Intermediate,Upper,Pull,C,S
+94,Biceps,Seated Alternating Curl,Beginner,Upper,Pull,FW,S
+95,Biceps,Seated Alternating Hammer Curl,Beginner,Upper,Pull,FW,S
+96,Biceps,Seated Dumbbell Curl,Beginner,Upper,Pull,FW,S
+97,Biceps,Seated Hammer Curl,Beginner,Upper,Pull,FW,S
+98,Biceps,Single-Arm Barbell Curl,Beginner,Upper,Pull,FW,S
+99,Biceps,Single-Arm Cable Curl,Intermediate,Upper,Pull,FW,S
+100,Biceps,Single-Arm Dumbbell Curl w/ Incline Bench,Beginner,Upper,Pull,FW,S
+101,Biceps,Spider Curl,Advanced,Upper,Pull,FW,S
+102,Calves - Gastrocnemius,Barbell Calf Raise,Advanced,Lower,Push,FW,S
+103,Calves - Gastrocnemius,Calf Press,Beginner,Lower,Push,M,S
+104,Calves - Gastrocnemius,Calf Raise - Seated,Beginner,Lower,Push,FW,S
+105,Calves - Gastrocnemius,Calf Raise - Standing,Beginner,Lower,Push,FW,S
+106,Calves - Gastrocnemius,Dumbbell Calf Raise,Beginner,Lower,Push,FW,S
+107,Calves - Gastrocnemius,Single-Leg Calf Press,Advanced,Lower,Push,MA,S
+108,Calves - Gastrocnemius,Single-Leg Dumbbell Calf Raise,Advanced,Lower,Push,FW,S
+109,Calves - Gastrocnemius,Smith Machine Calf Raise,Intermediate,Lower,Push,MA,S
+110,Calves - Soleus,Seated Calf Raise,Beginner,Lower,Push,MA,S
+111,Calves - Soleus,Seated Single-Leg Calf Raise,Intermediate,Lower,Push,MA,S
+112,Chest - Pectoralis,Alternating Dumbbell Bench Press,Intermediate,Upper,Push,FW,M
+113,Chest - Pectoralis,Barbell Bench Press,Intermediate,Upper,Push,FW,M
+114,Chest - Pectoralis,Chest Press,Beginner,Upper,Push,MA,M
+115,Chest - Pectoralis,Decline Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+116,Chest - Pectoralis,Decline Smith Machine Bench Press,Advanced,Upper,Push,MA,M
+117,Chest - Pectoralis,Dumbbell Bench Press,Beginner,Upper,Push,FW,M
+118,Chest - Pectoralis,Dumbbell Push-Up,Beginner,Upper,Push,FW,M
+119,Chest - Pectoralis,Elevated Push-Up,Advanced,Upper,Push,FW,M
+120,Chest - Pectoralis,Flat Bench Press,Intermediate,Upper,Push,FW,M
+121,Chest - Pectoralis,Incline Alternating Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+122,Chest - Pectoralis,Incline Barbell Bench Press,Advanced,Upper,Push,FW,M
+123,Chest - Pectoralis,Incline Bench Press,Advanced,Upper,Push,FW,M
+124,Chest - Pectoralis,Incline Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+125,Chest - Pectoralis,Incline Hammer Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+126,Chest - Pectoralis,Incline Single-Arm Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+127,Chest - Pectoralis,Incline Smith Machine Bench Press,Advanced,Upper,Push,MA,M
+128,Chest - Pectoralis,Incline Twisting Dumbbell Bench Press,Advanced,Upper,Push,FW,M
+129,Chest - Pectoralis,Kneeling Push-Up,Beginner,Upper,Push,FW,M
+130,Chest - Pectoralis,Machine Bench Press,Beginner,Upper,Push,MA,M
+131,Chest - Pectoralis,Machine Vertical Bench Press,Beginner,Upper,Push,MA,M
+132,Chest - Pectoralis,Medicine Ball Crossover Push-Up,Advanced,Upper,Push,FW,M
+133,Chest - Pectoralis,Push-Up,Beginner,Upper,Push,FW,M
+134,Chest - Pectoralis,Single-Arm Dumbbell Bench Press,Intermediate,Upper,Push,FW,M
+135,Chest - Pectoralis,Smith Machine Bench Press,Intermediate,Upper,Push,MA,M
+136,Chest - Pectoralis,Twisting Dumbbell Bench Press,Beginner,Upper,Push,FW,M
+137,Chest - Pectoralis,Wide-Grip Push-Up,Beginner,Upper,Push,FW,M
+138,Chest - Pectoralis,Cable Crossover,Advanced,Upper,Push,C,S
+139,Chest - Pectoralis,Cable Fly,Advanced,Upper,Push,C,S
+140,Chest - Pectoralis,Decline Dumbbell Fly,Advanced,Upper,Push,FW,S
+141,Chest - Pectoralis,Dumbbell Fly,Beginner,Upper,Push,FW,S
+142,Chest - Pectoralis,High Cable Crossover,Advanced,Upper,Push,C,S
+143,Chest - Pectoralis,Incline Cable Fly,Advanced,Upper,Push,C,S
+144,Chest - Pectoralis,Incline Dumbbell Fly,Advanced,Upper,Push,FW,S
+145,Chest - Pectoralis,Incline Twisting Dumbbell Fly,Advanced,Upper,Push,FW,S
+146,Chest - Pectoralis,Low Cable Crossover,Intermediate,Upper,Push,C,S
+147,Chest - Pectoralis,Pec Deck,Beginner,Upper,Push,MA,S
+148,Chest - Pectoralis,Pec Deck Fly,Beginner,Upper,Push,MA,S
+149,Legs - Hamstrings,Bent-Knee Single-Leg Hip Lift,Advanced,Lower,Pull,FW,M
+150,Legs - Hamstrings,Elevated Hip Lift,Intermediate,Lower,Pull,FW,M
+151,Legs - Hamstrings,Elevated Single-Leg Hip Lift,Advanced,Lower,Pull,FW,M
+152,Legs - Hamstrings,Hip Lift,Beginner,Lower,Pull,FW,M
+153,Legs - Hamstrings,Single-Leg Hip Lift,Intermediate,Lower,Pull,FW,M
+154,Legs - Hamstrings,Deadlift,Advanced,Lower,Pull,FW,S
+155,Legs - Hamstrings,Leg Curl,Beginner,Lower,Pull,MA,S
+156,Legs - Hamstrings,Lying Alternating Leg Curl,Intermediate,Lower,Pull,MA,S
+157,Legs - Hamstrings,Lying Leg Curl,Beginner,Lower,Pull,MA,S
+158,Legs - Hamstrings,Lying Single-Leg Curl,Intermediate,Lower,Pull,MA,S
+159,Legs - Hamstrings,Seated Leg Curl,Beginner,Lower,Pull,MA,S
+160,Legs - Quadriceps,Barbell Diagonal Lunge,Advanced,Lower,Push,FW,M
+161,Legs - Quadriceps,Barbell Hack Squat,Advanced,Lower,Push,FW,M
+162,Legs - Quadriceps,Barbell Lunge,Intermediate,Lower,Push,FW,M
+163,Legs - Quadriceps,Barbell Reverse Lunge,Intermediate,Lower,Push,FW,M
+164,Legs - Quadriceps,Barbell Side Lunge,Intermediate,Lower,Push,FW,M
+165,Legs - Quadriceps,Barbell Split Squat,Advanced,Lower,Push,FW,M
+166,Legs - Quadriceps,Barbell Squat,Beginner,Lower,Push,FW,M
+167,Legs - Quadriceps,Barbell Step-Up,Advanced,Lower,Push,FW,M
+168,Legs - Quadriceps,Barbell Walking Lunge,Advanced,Lower,Push,FW,M
+169,Legs - Quadriceps,Diagonal Lunge,Intermediate,Lower,Push,FW,M
+170,Legs - Quadriceps,Dumbbell Diagonal Lunge,Advanced,Lower,Push,FW,M
+171,Legs - Quadriceps,Dumbbell Lunge,Beginner,Lower,Push,FW,M
+172,Legs - Quadriceps,Dumbbell Reverse Lunge,Intermediate,Lower,Push,FW,M
+173,Legs - Quadriceps,Dumbbell Side Lunge,Intermediate,Lower,Push,FW,M
+174,Legs - Quadriceps,Dumbbell Split Squat,Advanced,Lower,Push,FW,M
+175,Legs - Quadriceps,Dumbbell Squat,Beginner,Lower,Push,FW,M
+176,Legs - Quadriceps,Dumbbell Step-Up,Beginner,Lower,Push,FW,M
+177,Legs - Quadriceps,Dumbbell Walking Lunge,Advanced,Lower,Push,FW,M
+178,Legs - Quadriceps,Forward Lunge,Beginner,Lower,Push,FW,M
+179,Legs - Quadriceps,Lateral Barbell Squat,Intermediate,Lower,Push,FW,M
+180,Legs - Quadriceps,Lateral Barbell Step-Up,Advanced,Lower,Push,FW,M
+181,Legs - Quadriceps,Lateral Squat,Beginner,Lower,Push,FW,M
+182,Legs - Quadriceps,Lateral Step-Up,Beginner,Lower,Push,FW,M
+183,Legs - Quadriceps,Leg Press,Beginner,Lower,Push,MA,M
+184,Legs - Quadriceps,Lunge,Beginner,Lower,Push,FW,M
+185,Legs - Quadriceps,Lying Machine Squat,Beginner,Lower,Push,MA,M
+186,Legs - Quadriceps,Machine Hack Squat,Beginner,Lower,Push,MA,M
+187,Legs - Quadriceps,Reverse Lunge,Beginner,Lower,Push,FW,M
+188,Legs - Quadriceps,Single-Arm Barbell Side Squat,Advanced,Lower,Push,FW,M
+189,Legs - Quadriceps,Single-Arm Dumbbell Side Squat,Intermediate,Lower,Push,FW,M
+190,Legs - Quadriceps,Single-Leg Barbell Squat,Advanced,Lower,Push,FW,M
+191,Legs - Quadriceps,Single-Leg Box Squat,Advanced,Lower,Push,FW,M
+192,Legs - Quadriceps,Single-Leg Dumbbell Box Squat,Advanced,Lower,Push,FW,M
+193,Legs - Quadriceps,Single-Leg Dumbbell Squat,Intermediate,Lower,Push,FW,M
+194,Legs - Quadriceps,Single-Leg Squat,Intermediate,Lower,Push,FW,M
+195,Legs - Quadriceps,Smith Machine Squat,Intermediate,Lower,Push,MA,M
+196,Legs - Quadriceps,Split Squat,Advanced,Lower,Push,FW,M
+197,Legs - Quadriceps,Step-Up,Beginner,Lower,Push,FW,M
+198,Legs - Quadriceps,Walking Lunge,Intermediate,Lower,Push,FW,M
+199,Legs - Quadriceps,Alternating Leg Extension,Intermediate,Lower,Push,MA,S
+200,Legs - Quadriceps,Leg Extension,Beginner,Lower,Push,MA,S
+201,Legs - Quadriceps,Single-Leg Extension,Intermediate,Lower,Push,MA,S
+202,Lower Back - Erector Spinae,Alternating Superman,Beginner,Core,Pull,FW,M
+203,Lower Back - Erector Spinae,Back Raise,Beginner,Core,Pull,FW,M
+204,Lower Back - Erector Spinae,Quadruped Alternating Superman,Beginner,Core,Pull,FW,M
+205,Lower Back - Erector Spinae,Superman,Beginner,Core,Pull,FW,M
+206,Lower Back - Erector Spinae,Superman Hold,Beginner,Core,Pull,FW,M
+207,Shoulders - Delts/Traps,Arnold Dumbbell Press,Intermediate,Upper,Push,FW,M
+208,Shoulders - Delts/Traps,Barbell Shoulder Press,Advanced,Upper,Push,FW,M
+209,Shoulders - Delts/Traps,Dumbbell Alternating Shoulder Press,Beginner,Upper,Push,FW,M
+210,Shoulders - Delts/Traps,Dumbbell Front Raise,Beginner,Upper,Push,FW,M
+211,Shoulders - Delts/Traps,Dumbbell Shoulder Press,Intermediate,Upper,Push,FW,M
+212,Shoulders - Delts/Traps,Dumbbell Twisting Shoulder Press,Intermediate,Upper,Push,FW,M
+213,Shoulders - Delts/Traps,Machine Shoulder Press,Beginner,Upper,Push,MA,M
+214,Shoulders - Delts/Traps,Seated Dumbbell Rear Delt Elbow Raise,Intermediate,Upper,Push,FW,M
+215,Shoulders - Delts/Traps,Single-Arm Dumbbell Shoulder Press,Beginner,Upper,Push,FW,M
+216,Shoulders - Delts/Traps,Smith Machine Shoulder Press,Advanced,Upper,Push,MA,M
+217,Shoulders - Delts/Traps,Barbell Front Raise,Intermediate,Upper,Push,FW,S
+218,Shoulders - Delts/Traps,Bent-Over Cable Rear Delt Raise,Advanced,Upper,Push,C,S
+219,Shoulders - Delts/Traps,Bent-Over Dumbbell Rear Delt Raise,Intermediate,Upper,Push,FW,S
+220,Shoulders - Delts/Traps,Cable Front Raise,Intermediate,Upper,Push,C,S
+221,Shoulders - Delts/Traps,Cable Lateral Raise,Intermediate,Upper,Push,C,S
+222,Shoulders - Delts/Traps,Dumbbell Lateral Raise,Beginner,Upper,Push,FW,S
+223,Shoulders - Delts/Traps,Front Plate Raise,Beginner,Upper,Push,FW,S
+224,Shoulders - Delts/Traps,Kneeling Single-Arm Cable Rear Delt Raise,Advanced,Upper,Push,C,S
+225,Shoulders - Delts/Traps,Lying Dumbbell External Rotation,Beginner,Upper,Push,FW,S
+226,Shoulders - Delts/Traps,Lying Dumbbell Rear Delt Raise,Beginner,Upper,Push,FW,S
+227,Shoulders - Delts/Traps,Lying Single-Arm Dumbbell Rear Delt Raise,Beginner,Upper,Push,FW,S
+228,Shoulders - Delts/Traps,Pec Deck Real Delt Extensions,Intermediate,Upper,Push,MA,S
+229,Shoulders - Delts/Traps,Reverse Incline Dumbbell Rear Delt Raise,Advanced,Upper,Push,FW,S
+230,Shoulders - Delts/Traps,Seated Dumbbell Rear Delt Raise,Beginner,Upper,Push,FW,S
+231,Shoulders - Delts/Traps,Single-Arm Cable Lateral Raise,Intermediate,Upper,Push,C,S
+232,Shoulders - Rotator Cuff,Cable External Rotation,Beginner,Upper,Push,C,S
+233,Triceps,Close-Grip Bench Press,Advanced,Upper,Push,FW,M
+234,Triceps,Forward Lean Dips,Intermediate,Upper,Push,FW,M
+235,Triceps,Assisted Dips,Beginner,Upper,Push,FW,M
+236,Triceps,Bench Dips,Intermediate,Upper,Push,FW,M
+237,Triceps,Diamond Push-Up,Intermediate,Upper,Push,FW,M
+238,Triceps,Dips,Intermediate,Upper,Push,FW,M
+239,Triceps,Machine Dips,Beginner,Upper,Push,MA,M
+240,Triceps,Decline Dumbbell Triceps Extension,Advanced,Upper,Push,FW,S
+241,Triceps,Decline EZ-Bar Tricep Extension,Advanced,Upper,Push,FW,S
+242,Triceps,Decline Single Dumbbell Triceps Extension,Advanced,Upper,Push,FW,S
+243,Triceps,Decline Single-Arm Dumbbell Triceps Extension,Advanced,Upper,Push,FW,S
+244,Triceps,Dumbbell Kickback,Beginner,Upper,Push,FW,S
+245,Triceps,Incline EZ-Bar Tricep Extension,Advanced,Upper,Push,FW,S
+246,Triceps,Kneeling Cable Triceps Extension,Beginner,Upper,Push,C,S
+247,Triceps,Leaning Overhead Tricep Extension,Intermediate,Upper,Push,FW,S
+248,Triceps,Low Cable Triceps Extension,Intermediate,Upper,Push,C,S
+249,Triceps,Lying Cable Triceps Extension,Intermediate,Upper,Push,C,S
+250,Triceps,Lying EZ-Bar Triceps Extension,Intermediate,Upper,Push,FW,S
+251,Triceps,Lying Overhead EZ-Bar Tricep Extension,Intermediate,Upper,Push,FW,S
+252,Triceps,Lying Reverse EZ-Bar Triceps Extension,Advanced,Upper,Push,FW,S
+253,Triceps,Lying Single Dumbbell Triceps Extension,Beginner,Upper,Push,FW,S
+254,Triceps,Lying Single-Arm Dumbbell Triceps Extension,Beginner,Upper,Push,FW,S
+255,Triceps,Lying Tricep Extensions,Beginner,Upper,Push,FW,S
+256,Triceps,Overhead Dumbbell Triceps Extension,Beginner,Upper,Push,FW,S
+257,Triceps,Overhead EZ-Bar Triceps Extension,Advanced,Upper,Push,FW,S
+258,Triceps,Overhead Rope Cable Tricep Extension,Intermediate,Upper,Push,C,S
+259,Triceps,Overhead Single Dumbbell Tricep Extension,Beginner,Upper,Push,FW,S
+260,Triceps,Overhead Single-Arm Cable Tricep Extension,Intermediate,Upper,Push,C,S
+261,Triceps,Overhead Single-Arm Dumbbell Tricep Extension,Beginner,Upper,Push,FW,S
+262,Triceps,Reverse Tricep Pushdown,Advanced,Upper,Push,C,S
+263,Triceps,Rope Triceps Pushdown,Intermediate,Upper,Push,C,S
+264,Triceps,Single-Arm Towel Triceps Pushdown,Beginner,Upper,Push,C,S
+265,Triceps,Single-Arm Triceps Pushdown,Intermediate,Upper,Push,C,S
+266,Triceps,Towel Triceps Pushdown,Beginner,Upper,Push,C,S
+267,Triceps,Tricep Extensions,Beginner,Upper,Push,FW,S
+268,Triceps,Tricep Pushdown,Beginner,Upper,Push,C,S
+269,Triceps,Tricep Pushdown,Beginner,Upper,Push,C,S
+270,Triceps,V-Bar Tricep Pushdown,Beginner,Upper,Push,C,S

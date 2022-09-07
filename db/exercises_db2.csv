@@ -1,0 +1,156 @@
+id,muscle_group,exercise,level,target,push_pull,modality,joint,image
+1,Abdominals - Lower,Full Reverse Crunch,Advanced,Core,Push,FW,M,https://i0.wp.com/post.greatist.com/wp-content/uploads/sites/2/2019/05/7MinWorkout_May_Moves_ReverseCrunches.jpg
+2,Abdominals - Lower,Incline Hip Thrust,Advanced,Core,Push,FW,M,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSna2htNy2cxzIJoBfMOOoQUIt0PIfmw8LsTg&usqp=CAU
+3,Abdominals - Lower,Incline Reverse Crunch,Advanced,Core,Push,FW,M,https://i.ebayimg.com/images/g/nlsAAOSw6NFjAK8M/s-l1600.jpg
+4,Abdominals - Lower,Lying Hip Thrust,Advanced,Core,Push,FW,M,https://i.pinimg.com/originals/a8/d5/08/a8d508d81832e0324e0988f19e9a6e83.jpg
+5,Abdominals - Lower,Reverse Crunch,Beginner,Core,Push,FW,M,https://post.greatist.com/wp-content/uploads/sites/2/2019/05/7MinWorkout_May_Moves_ReverseCrunches.jpg
+6,Abdominals - Lower,Reverse Medicine Ball Crunch,Advanced,Core,Push,FW,M,https://s3.amazonaws.com/prod.skimble/assets/12332/skimble-workout-trainer-exercise-reverse-crunch-with-ball-2_iphone.jpg
+7,Abdominals - Obliques,Alternating Heel Touch,Beginner,Core,Push,FW,M,https://i.pinimg.com/736x/01/86/f5/0186f5c2d324358ace0bcffef973072c.jpg
+8,Abdominals - Obliques,Bent-Knee Medicine Ball Hip Rotation,Advanced,Core,Push,FW,M,https://i.pinimg.com/736x/03/75/64/0375646b1aaadd2a720ed43a084574aa--rotation-photos.jpg
+9,Abdominals - Obliques,Cable Chop,Advanced,Core,Push,C,M,https://i.pinimg.com/736x/c8/15/eb/c815ebb830ba2c661bea01d6b891796a.jpg
+10,Abdominals - Obliques,Cross Crunch,Beginner,Core,Push,FW,M,https://s3.amazonaws.com/prod.skimble/assets/1767935/image_iphone.jpg
+11,Abdominals - Obliques,Cross Crunch w/ Medicine Ball,Advanced,Core,Push,FW,M,https://www.jefit.com/images/exercises/800_600/1205.jpg
+12,Abdominals - Total,Front Plank (from knees),Beginner,Core,Static,FW,M,http://www.weakbackbuilder.com/wp-content/uploads/2017/12/plank-on-both-knees.jpg
+13,Abdominals - Total,Front Plank (from toes),Intermediate,Core,Static,FW,M,https://st2.depositphotos.com/1301843/8940/i/950/depositphotos_89405010-stock-photo-young-man-doing-elbow-plank.jpg
+14,Abdominals - Total,Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm),Advanced,Core,Static,FW,M,https://bodybuilding-wizard.com/wp-content/uploads/2018/10/plank-with-opposite-arm-and-leg-lift.jpg
+15,Abdominals - Total,Side-Plank (from knees),Intermediate,Core,Static,FW,M,https://content.ca.healthwise.net/resources/13.1/en-ca/media/medical/hw/h9991305_002.jpg
+16,Abdominals - Total,Side-Plank (hip lift),Beginner,Core,Static,FW,M,https://i.pinimg.com/originals/7e/5c/5a/7e5c5abe7434b9fc02cc44e3078d284b.jpg
+17,Abdominals - Total,Kneeling Ab Rollout,Intermediate,Core,Push,FW,M,https://cdn-xi3mbccdkztvoept8hl.netdna-ssl.com/wp-content/uploads/watermarked/Ab_Roller_Wheel_Rollout_F_WorkoutLabs.png
+18,Abdominals - Total,V-Up,Beginner,Core,Push,FW,M,https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/V-Up_Exercise.jpg
+19,Abdominals - Total,Weighted V-Up,Intermediate,Core,Push,FW,M,https://cdn.shopify.com/s/files/1/0425/4210/4739/articles/V-Up_SL_MB_1000x.jpg?v=1595127072
+20,Abdominals - Upper,Bent Knee Sit-Up,Beginner,Core,Push,FW,M,https://image.shutterstock.com/image-photo/one-caucasian-man-exercising-crunches-260nw-404176213.jpg
+21,Abdominals - Upper,Bent-Knee Crunch,Beginner,Core,Push,FW,M,https://www.wikihow.com/images/thumb/6/68/Do-Knee-Crunches-Step-4.jpg/v4-460px-Do-Knee-Crunches-Step-4.jpg.webp
+22,Abdominals - Upper,Crunch,Beginner,Core,Push,FW,M,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/crunch-1588842220.jpg?resize=480:*
+23,Abdominals - Upper,Crunch,Beginner,Core,Push,FW,M,https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/crunch-1588842220.jpg?resize=480:*
+24,Abdominals - Upper,Heel Touch,Beginner,Core,Push,FW,M,https://cdn2.vectorstock.com/i/1000x1000/31/91/alternate-heel-touchers-lying-oblique-reach-vector-34233191.jpg
+25,Abdominals - Upper,Sit-Up,Beginner,Core,Push,FW,M,https://media1.popsugar-assets.com/files/thumbor/rYl65QpSWf-082ClXw2nRl1OOIo/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2014/03/17/884/n/1922729/79bc07ee5cb226ab_woman-doing-sit-ups/i/Core-Full-Sit-Ups.jpg
+26,Abdominals - Upper,Weighted Crunch,Intermediate,Core,Push,FW,M,https://i.ytimg.com/vi/TYGY9-kG9hM/maxresdefault.jpg
+27,Back - Latissimus Dorsi,Assisted Pull-Up,Beginner,Upper,Pull,FW,M,https://hips.hearstapps.com/vidthumb/brightcove/57893feae694aa370d883341/thumb_1468612588.png?fill=2:1&resize=640:*
+28,Back - Latissimus Dorsi,Close-Grip Lat Pulldown,Beginner,Upper,Pull,MA,M,https://cdn.shopify.com/s/files/1/0250/0362/2496/articles/Everything_You_Need_To_Know-12_600x600_crop_center.png?v=1652466345
+29,Back - Latissimus Dorsi,Inverted Pull-Up,Advanced,Upper,Pull,FW,M,https://i.pinimg.com/originals/71/fc/69/71fc697a402c54e2e997024255dada2f.jpg
+30,Back - Latissimus Dorsi,Lat Pulldown,Beginner,Upper,Pull,C,M,https://weighttraining.guide/wp-content/uploads/2017/01/Lat-pull-down-resized.png
+31,Back - Latissimus Dorsi,Pull-Up,Beginner,Upper,Pull,FW,M,https://www.puntofape.com/wp-content/uploads/2016/05/pullup-con-agarre-abierto.jpg
+32,Back - Latissimus Dorsi,Wide-Grip Lat Pulldown,Beginner,Upper,Pull,C,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Wide-Grip-Pulldown_91fcba9b-47a2-4185-b093-aa542c81c55c_600x600.png?v=1612138105
+33,Back - Lat.Dorsi/Rhomboids,Bent-Over Alternating Dumbbell Row,Intermediate,Upper,Pull,FW,M,https://i.pinimg.com/736x/28/dd/ad/28ddad22e8b9a5fc28f5b27c3d5eede2.jpg
+34,Back - Lat.Dorsi/Rhomboids,Bent-Over Barbell Row,Beginner,Upper,Pull,FW,M,https://cdn.mos.cms.futurecdn.net/spmeMadc8qAz59nKTFJmZj.jpg
+35,Back - Lat.Dorsi/Rhomboids,Bent-Over Dumbbell Row,Beginner,Upper,Pull,FW,M,https://cdn.prod.openfit.com/uploads/2019/02/28155012/Open_Fit_Bent_Over_Row_0517-770.jpg
+36,Back - Lat.Dorsi/Rhomboids,Machine Row,Beginner,Upper,Pull,MA,M,https://fitnessvolt.com/wp-content/uploads/2019/04/machine-one-arm-row.jpg
+37,Back - Lat.Dorsi/Rhomboids,One Arm Dumbbell Row,Beginner,Upper,Pull,FW,M,https://i.pinimg.com/736x/42/ba/3f/42ba3fde9e7f9b31f958d0c39db407fc.jpg
+38,Back - Lat.Dorsi/Rhomboids,Seated Cable Row,Beginner,Upper,Pull,C,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Cable-Row_9470fa48-f0d1-40b1-a980-caee9e6f2e53_600x600.png
+39,Back - Lat.Dorsi/Rhomboids,Seated Row,Beginner,Upper,Pull,C,M,https://fitnessvolt.com/wp-content/uploads/2019/04/seated-cable-row.jpg
+40,Back - Lat.Dorsi/Rhomboids,Single-Arm Cable Row,Intermediate,Upper,Pull,C,M,https://fitnessvolt.com/wp-content/uploads/2019/04/seated-one-arm-cable-row-750x474.jpg
+41,Back - Lat.Dorsi/Rhomboids,Single-Arm Dumbbell Row,Beginner,Upper,Pull,FW,M,https://weighttraining.guide/wp-content/uploads/2016/10/bent-over-one-arm-dumbbell-row-resized.png
+42,Back - Lat.Dorsi/Rhomboids,Single-Arm Lat Pulldown,Intermediate,Upper,Pull,C,M,https://i.pinimg.com/originals/9c/f6/e8/9cf6e84583c822a8ad7eff2c09b119f3.jpg
+43,Back - Lat.Dorsi/Rhomboids,Standing Cable Row,Beginner,Upper,Pull,C,M,https://weighttraining.guide/wp-content/uploads/2018/11/Standing-cable-row-resized.png
+44,Back - Lat.Dorsi/Rhomboids,Standing Single-Arm Cable Row,Intermediate,Upper,Pull,C,M,https://weighttraining.guide/wp-content/uploads/2017/12/standing-twisting-cable-row-resized.png
+45,Biceps,Alternating Dumbbell Curl,Beginner,Upper,Pull,FW,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Alternating-Dumbbell-Curl_ad879dc4-b4fb-4ca7-b2b1-6e1eb5d78252_600x600.png
+46,Biceps,Alternating Hammer Curl,Beginner,Upper,Pull,FW,S,https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1492683665304-XXCOCXXRK73RSQ8IY3NQ/Standing+Alternate+Dumbbell+Biceps+Hammer+Curls
+47,Biceps,Barbell Curl,Beginner,Upper,Pull,FW,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Barbell-Curl_f38580d5-412e-4082-b453-5d319afa94fd_600x600.png?v=1612137128
+48,Biceps,Bicep Curl,Beginner,Upper,Pull,FW,S,https://image.shutterstock.com/image-vector/man-doing-standing-dumbbell-bicep-260nw-1850250391.jpg
+49,Biceps,Cable Curl,Intermediate,Upper,Pull,C,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Straight-Bar-Low-Pulley-Cable-Curl_600x600.png?v=1619978455
+50,Biceps,Concentration Dumbbell Curl,Intermediate,Upper,Pull,FW,S,https://i.pinimg.com/736x/02/af/e9/02afe9a15bac202f7e42e25ba0c0980d.jpg
+51,Biceps,Dumbbell Curl,Beginner,Upper,Pull,FW,S,https://global-uploads.webflow.com/5d1d0d3f53ced35a29dbe169/5f88bbddf6cbe9edf0eefcad_supinated-dumbbell-curl.png
+52,Biceps,EZ-Bar Curl,Intermediate,Upper,Pull,FW,S,https://weighttraining.guide/wp-content/uploads/2016/10/EZ-Barbell-Curl-resized.png
+53,Biceps,Hammer Curl,Beginner,Upper,Pull,FW,S,https://1.bp.blogspot.com/-HCrow8DBDE8/XpLP0m3yP-I/AAAAAAAAH-U/ZJuYFY3ZPOUHAwHDxwc3FkQ5O83Vs9saACLcBGAsYHQ/s1600/Dumbbell-Cross-Body-Hammer-Curl.jpg
+54,Biceps,Lying Double Biceps Cable Curl,Intermediate,Upper,Pull,C,S,https://criticalbody.com/wp-content/uploads/2021/12/lying-cable-curl-dec21.jpg
+55,Biceps,Machine Curl,Beginner,Upper,Pull,MA,S,https://cdn.shopify.com/s/files/1/1075/8446/files/exercise-43.jpg
+56,Biceps,Preacher EZ-Bar Curl,Advanced,Upper,Pull,FW,S,https://i.pinimg.com/originals/a8/a4/97/a8a497b030eb13aa48b15ee37abb36c2.png
+57,Biceps,Preacher Hammer Dumbbell Curl,Intermediate,Upper,Pull,FW,S,https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-hammer-preacher-curl-750x474.jpg
+58,Biceps,Preacher Single-Arm Dumbbell Curl,Intermediate,Upper,Pull,FW,S,https://www.jefit.com/images/exercises/800_600/4028.jpg
+59,Biceps,Reverse Curl,Advanced,Upper,Pull,FW,S,https://fitnessvolt.com/wp-content/uploads/2019/04/barbell-reverse-curl.jpg
+60,Biceps,Rope Cable Curl,Intermediate,Upper,Pull,C,S,https://s3.amazonaws.com/prod.skimble/assets/1819011/image_iphone.jpg
+61,Biceps,Single-Arm Barbell Curl,Beginner,Upper,Pull,FW,S,https://criticalbody.com/wp-content/uploads/2021/12/single-arm-barbell-curl-dec21.jpg
+62,Biceps,Single-Arm Cable Curl,Intermediate,Upper,Pull,FW,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Single-Arm-Low-Pulley-Cable-Curl_600x600.png?v=1619978525
+63,Biceps,Single-Arm Dumbbell Curl w/ Incline Bench,Beginner,Upper,Pull,FW,S,https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1495704482642-WDTHOZG3FE0ZTY74WR8Z/Standing+One+Arm+Dumbbell+Incline+Biceps+Curl
+64,Calves - Gastrocnemius,Barbell Calf Raise,Advanced,Lower,Push,FW,S,https://i.pinimg.com/originals/f0/cf/a2/f0cfa29f3f5f616f020137d43676676b.jpg
+65,Calves - Gastrocnemius,Calf Press,Beginner,Lower,Push,M,S,https://fitnessvolt.com/wp-content/uploads/2019/04/sled-calf-press-1024x647.jpg
+66,Calves - Gastrocnemius,Calf Raise - Seated,Beginner,Lower,Push,FW,S,https://weighttraining.guide/wp-content/uploads/2016/10/Lever-Seated-Calf-Raise-plate-loaded-resized.png
+67,Calves - Gastrocnemius,Single-Leg Dumbbell Calf Raise,Advanced,Lower,Push,FW,S,https://www.mybodycreator.com/content/files/2020/09/22/480_M.png
+68,Calves - Gastrocnemius,Smith Machine Calf Raise,Intermediate,Lower,Push,MA,S,https://i.pinimg.com/736x/e1/8b/50/e18b508a9f088f54d80c5ededf3dbafd.jpg
+69,Calves - Soleus,Seated Calf Raise,Beginner,Lower,Push,MA,S,https://www.inspireusafoundation.org/wp-content/uploads/2021/06/weighted-seated-calf-raise.gif
+70,Calves - Soleus,Seated Single-Leg Calf Raise,Intermediate,Lower,Push,MA,S,https://static.strengthlevel.com/images/illustrations/single-leg-seated-calf-raise-1000x1000.jpg
+71,Chest - Pectoralis,Barbell Bench Press,Intermediate,Upper,Push,FW,M,https://image.shutterstock.com/image-illustration/closegrip-barbell-bench-press-3d-260nw-430936051.jpg
+72,Chest - Pectoralis,Chest Press,Beginner,Upper,Push,MA,M,https://www.panattasport.com/resources/products/1fe036//pic-1fe036_02.jpg
+73,Chest - Pectoralis,Decline Dumbbell Bench Press,Advanced,Upper,Push,FW,M,https://fitnessvolt.com/wp-content/uploads/2019/04/decline-dumbbell-bench-press-1024x647.jpg
+74,Chest - Pectoralis,Dumbbell Bench Press,Beginner,Upper,Push,FW,M,https://st2.depositphotos.com/8546304/11395/i/950/depositphotos_113951498-stock-photo-decline-dumbbell-bench-press.jpg
+75,Chest - Pectoralis,Elevated Push-Up,Advanced,Upper,Push,FW,M,"https://hips.hearstapps.com/hmg-prod/images/workouts/2016/03/feetelevatedpushup-1457047025.gif?crop=1xw:1xh;center,top&resize=640:*"
+76,Chest - Pectoralis,Flat Bench Press,Intermediate,Upper,Push,FW,M,https://images.assetsdelivery.com/compings_v2/lioputra/lioputra2201/lioputra220100086.jpg
+77,Chest - Pectoralis,Incline Bench Press,Advanced,Upper,Push,FW,M,https://qph.cf2.quoracdn.net/main-qimg-93e80acbc1b2ec225c378eb6f0b56b38-lq
+78,Chest - Pectoralis,Incline Dumbbell Bench Press,Advanced,Upper,Push,FW,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Incline-Dumbbell-Bench-Press_c2bf89a2-433f-4a8f-9801-67c679980867_600x600.png?v=1612138008
+79,Chest - Pectoralis,Incline Smith Machine Bench Press,Advanced,Upper,Push,MA,M,https://i0.wp.com/365musclefitness.com/wp-content/uploads/2020/07/Smith-Machine-Incline-Press-muscles-used-1.png?resize=1024%2C640&ssl=1
+80,Chest - Pectoralis,Machine Bench Press,Beginner,Upper,Push,MA,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Chest-Press-Machine_ab8cd29d-5698-4110-a938-098bda19b5fc_600x600.png?v=1621163108
+81,Chest - Pectoralis,Machine Vertical Bench Press,Beginner,Upper,Push,MA,M,https://images.jhtassets.com/21036a58ee75a599e964c8cbe3174cc2a36e98e0/
+82,Chest - Pectoralis,Push-Up,Beginner,Upper,Push,FW,M,https://crossfitstein.com/wp-content/uploads/2020/04/push-up.jpg
+83,Chest - Pectoralis,Cable Crossover,Advanced,Upper,Push,C,S,https://viceversar.files.wordpress.com/2020/04/cable-crossovers..jpg
+84,Chest - Pectoralis,Cable Fly,Advanced,Upper,Push,C,S,https://weighttraining.guide/wp-content/uploads/2016/05/cable-cross-over-resized.png
+85,Chest - Pectoralis,Dumbbell Fly,Beginner,Upper,Push,FW,S,https://www.fitnessandbeast.com/wp-content/uploads/2016/01/dumbbell-fly-nereyi-calistirir.png
+86,Chest - Pectoralis,High Cable Crossover,Advanced,Upper,Push,C,S,https://fitnessvolt.com/wp-content/uploads/2018/04/high-cable-cross-over-1.jpg
+87,Chest - Pectoralis,Incline Cable Fly,Advanced,Upper,Push,C,S,https://i.pinimg.com/originals/b1/23/30/b1233081775c48bfee0d354f3a70e9c7.png
+88,Chest - Pectoralis,Pec Deck,Beginner,Upper,Push,MA,S,https://mygymmachines.com/wp-content/uploads/2020/12/083fe3ed91f8deddd9479eb717d642d7-min-1.jpg
+89,Chest - Pectoralis,Pec Deck Fly,Beginner,Upper,Push,MA,S,https://eresfitness.com/wp-content/uploads/2019/11/Aperturas-peck-deck-de-pecho.jpg
+90,Legs - Hamstrings,Deadlift,Advanced,Lower,Pull,FW,S,https://www.researchgate.net/profile/Florian-Michaud/publication/353924505/figure/fig3/AS:1057397732823040@1629114673421/Deadlift-technique-a-Step-1-b-Step-2-c-Step-3.ppm
+91,Legs - Hamstrings,Leg Curl,Beginner,Lower,Pull,MA,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Seated-Leg-Curl_e367789a-bbb3-4144-a926-5a9b42afc278_600x600.png?v=1612139123
+92,Legs - Hamstrings,Lying Alternating Leg Curl,Intermediate,Lower,Pull,MA,S,https://www.researchgate.net/profile/Toni-Caparros/publication/328012542/figure/fig1/AS:703688750411776@1544783880932/Eccentric-Leg-Curl-initial-position.ppm
+93,Legs - Hamstrings,Lying Leg Curl,Beginner,Lower,Pull,MA,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Lying-Leg-Curl_203153d8-79dd-4bb9-9125-708aa4327107_600x600.png?v=1612139013
+94,Legs - Hamstrings,Lying Single-Leg Curl,Intermediate,Lower,Pull,MA,S,https://www.researchgate.net/profile/Toni-Caparros/publication/328012542/figure/fig1/AS:703688750411776@1544783880932/Eccentric-Leg-Curl-initial-position.ppm
+95,Legs - Hamstrings,Seated Leg Curl,Beginner,Lower,Pull,MA,S,https://global-uploads.webflow.com/5d1d0d3f53ced35a29dbe169/5fd7d1877ec308ebe3f92223_seated-hamstring-curl.png
+96,Legs - Quadriceps,Barbell Diagonal Lunge,Advanced,Lower,Push,FW,M,https://www.burnthefatinnercircle.com/members/images/266.jpg
+97,Legs - Quadriceps,Barbell Lunge,Intermediate,Lower,Push,FW,M,https://www.burnthefatinnercircle.com/members/images/266.jpg
+98,Legs - Quadriceps,Barbell Split Squat,Advanced,Lower,Push,FW,M,https://weighttraining.guide/wp-content/uploads/2021/06/Barbell-split-squat.png
+99,Legs - Quadriceps,Barbell Walking Lunge,Advanced,Lower,Push,FW,M,https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-lunge-750x474.jpg
+100,Legs - Quadriceps,Dumbbell Split Squat,Advanced,Lower,Push,FW,M,https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-bulgarian-split-squat.jpg
+101,Legs - Quadriceps,Dumbbell Squat,Beginner,Lower,Push,FW,M,https://s3.amazonaws.com/prod.skimble/assets/1506934/image_iphone.jpg
+102,Legs - Quadriceps,Forward Lunge,Beginner,Lower,Push,FW,M,https://image.thanhnien.vn/w1024/Uploaded/2022/yfgfs/2020_10_25/sundaugoi2_ucgn.jpg
+103,Legs - Quadriceps,Lateral Barbell Squat,Intermediate,Lower,Push,FW,M,https://i.pinimg.com/originals/58/dd/be/58ddbe751dfd34ddf1b139770ba99c96.jpg
+104,Legs - Quadriceps,Leg Press,Beginner,Lower,Push,MA,M,https://weighttraining.guide/wp-content/uploads/2016/05/Sled-45-degree-Leg-Press-resized.png
+105,Legs - Quadriceps,Lunge,Beginner,Lower,Push,FW,M,https://i0.wp.com/pilicuadrado.com/wp-content/uploads/2014/08/6-13_lunges.jpg?ssl=1
+106,Legs - Quadriceps,Machine Hack Squat,Beginner,Lower,Push,MA,M,https://www.panattasport.com/resources/products/1hp587//pic-1hp587_02.jpg
+107,Legs - Quadriceps,Single-Leg Barbell Squat,Advanced,Lower,Push,FW,M,https://images.squarespace-cdn.com/content/v1/55e406fbe4b0b03c5e7543ae/1495713162845-ZX7UJ3G2MK32PZKYDLX9/Single+Leg+Barbell+Split+Squat
+108,Legs - Quadriceps,Single-Leg Dumbbell Box Squat,Advanced,Lower,Push,FW,M,https://i.pinimg.com/originals/11/31/0d/11310d1447f580ea020164b839173bb3.gif
+109,Legs - Quadriceps,Single-Leg Dumbbell Squat,Intermediate,Lower,Push,FW,M,https://cdn.shopify.com/s/files/1/1600/5989/files/bodyweight_workout_1-2_bulgarian_split_squat_1024x1024.jpg
+110,Legs - Quadriceps,Split Squat,Advanced,Lower,Push,FW,M,https://cdn.prod.openfit.com/uploads/2016/10/13143930/bulgarian-split-squat-header.jpg
+111,Legs - Quadriceps,Leg Extension,Beginner,Lower,Push,MA,S,https://gym.dromosys.com/media/exercise-images/177/leg-extension-750x474.jpg.800x800_q90.jpg
+112,Legs - Quadriceps,Single-Leg Extension,Intermediate,Lower,Push,MA,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Single-Leg-Extension_9cf850d1-0b9b-4fb3-8caf-49d438e86db0_600x600.png?v=1612139177
+113,Lower Back - Erector Spinae,Alternating Superman,Beginner,Core,Pull,FW,M,https://www.spotebi.com/wp-content/uploads/2014/10/alternating-superman-exercise-illustration.jpg
+114,Lower Back - Erector Spinae,Back Raise,Beginner,Core,Pull,FW,M,https://www.wearethemighty.com/app/uploads/legacy/assets.rbl.ms/19264802/origin.jpg
+115,Lower Back - Erector Spinae,Quadruped Alternating Superman,Beginner,Core,Pull,FW,M,https://www.strongfitnessmag.com/wp-content/uploads/2013/12/QuadrupedAlternatingExtension.jpg
+116,Lower Back - Erector Spinae,Superman,Beginner,Core,Pull,FW,M,https://media1.popsugar-assets.com/files/thumbor/i2bQ2NxyqViybX5716liUZBqBkE/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/08/24/881/n/1922398/13a573f1_Superman.jpg
+117,Lower Back - Erector Spinae,Superman Hold,Beginner,Core,Pull,FW,M,https://media1.popsugar-assets.com/files/thumbor/i2bQ2NxyqViybX5716liUZBqBkE/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2015/08/24/881/n/1922398/13a573f1_Superman.jpg
+118,Shoulders - Delts/Traps,Arnold Dumbbell Press,Intermediate,Upper,Push,FW,M,https://mundoentrenamiento.com/wp-content/uploads/2021/08/press-arnold.webp
+119,Shoulders - Delts/Traps,Barbell Shoulder Press,Advanced,Upper,Push,FW,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Standing-Barbell-Shoulder-Press_600x600.png?v=1619977694
+120,Shoulders - Delts/Traps,Dumbbell Shoulder Press,Intermediate,Upper,Push,FW,M,https://cdn.shopify.com/s/files/1/0026/8078/2897/articles/shoulder_press_600x600_crop_center.jpg?v=1617808532
+121,Shoulders - Delts/Traps,Machine Shoulder Press,Beginner,Upper,Push,MA,M,https://i.pinimg.com/474x/70/37/9c/70379c1f88fbcb792594092bdb3fdee8.jpg
+122,Shoulders - Delts/Traps,Seated Dumbbell Rear Delt Elbow Raise,Intermediate,Upper,Push,FW,M,https://i0.wp.com/www.fitliferegime.com/wp-content/uploads/2021/05/Lateral-Bent-over-row.jpg?w=900&ssl=1
+123,Shoulders - Delts/Traps,Barbell Front Raise,Intermediate,Upper,Push,FW,S,https://fitnessvolt.com/wp-content/uploads/2020/08/barbell-front-raise.jpg
+124,Shoulders - Delts/Traps,Bent-Over Cable Rear Delt Raise,Advanced,Upper,Push,C,S,https://bodybuilding-wizard.com/wp-content/uploads/2015/03/bent-over-cable-lateral-raise-2-4-5.jpg
+125,Shoulders - Delts/Traps,Bent-Over Dumbbell Rear Delt Raise,Intermediate,Upper,Push,FW,S,http://www.burnthefatinnercircle.com/members/images/1573.jpg
+126,Shoulders - Delts/Traps,Cable Lateral Raise,Intermediate,Upper,Push,C,S,https://fitnessvolt.com/wp-content/uploads/2018/04/cable-one-arm-lateral-raise-1-750x474.jpg
+127,Shoulders - Delts/Traps,Dumbbell Lateral Raise,Beginner,Upper,Push,FW,S,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Dumbbell-Lateral-Raise_31c81eee-81c4-4ffe-890d-ee13dd5bbf20_600x600.png
+128,Shoulders - Delts/Traps,Lying Dumbbell Rear Delt Raise,Beginner,Upper,Push,FW,S,https://tikkaykhan.com/wp-content/uploads/2018/06/Dumbbells-Seated-Bent.jpg
+129,Shoulders - Delts/Traps,Pec Deck Real Delt Extensions,Intermediate,Upper,Push,MA,S,https://i.pinimg.com/originals/a3/cb/fe/a3cbfe2ef86f96f18d14487c808db108.jpg
+130,Shoulders - Delts/Traps,Single-Arm Cable Lateral Raise,Intermediate,Upper,Push,C,S,https://fitnessvolt.com/wp-content/uploads/2018/04/cable-one-arm-lateral-raise-1.jpg
+131,Triceps,Close-Grip Bench Press,Advanced,Upper,Push,FW,M,https://thumbs.dreamstime.com/b/exercising-close-grip-barbell-bench-press-target-muscles-marked-red-initial-final-steps-67126548.jpg
+132,Triceps,Assisted Dips,Beginner,Upper,Push,FW,M,https://weighttraining.guide/wp-content/uploads/2021/10/Machine-assisted-chest-dip.png
+133,Triceps,Diamond Push-Up,Intermediate,Upper,Push,FW,M,https://www.aleanlife.com/wp-content/uploads/2021/01/diamond-push-up-form-1200x675.jpg
+134,Triceps,Dips,Intermediate,Upper,Push,FW,M,https://www.feda.net/wp-content/uploads/2019/02/dip.jpg
+135,Triceps,Dumbbell Kickback,Beginner,Upper,Push,FW,S,https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Dumbbell-Kickback-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4
+136,Triceps,Decline EZ-Bar Tricep Extension,Advanced,Upper,Push,FW,S,https://i.pinimg.com/originals/55/6b/a0/556ba07f96f577dc304f56ba0c7d9f9c.png
+137,Triceps,Incline EZ-Bar Tricep Extension,Advanced,Upper,Push,FW,S,https://i.pinimg.com/originals/9b/14/f4/9b14f46346d643401e7a318d1a6818ff.jpg
+138,Triceps,Leaning Overhead Tricep Extension,Intermediate,Upper,Push,FW,S,https://global-uploads.webflow.com/5c34b1d990599d5d94b3e8d8/5fd18f690f109db96dc82282_11911201-Triceps-Press-Head-Below-Bench-Upper-Arms.jpeg
+139,Triceps,Lying Overhead EZ-Bar Tricep Extension,Intermediate,Upper,Push,FW,S,https://www.mybodycreator.com/content/files/exercises/139.png
+140,Triceps,Overhead Rope Cable Tricep Extension,Intermediate,Upper,Push,C,S,https://thumbs.dreamstime.com/z/basic-rgb-215513270.jpg
+141,Triceps,Overhead Single-Arm Cable Tricep Extension,Intermediate,Upper,Push,C,S,https://i.pinimg.com/474x/7f/e7/f0/7fe7f0ec4d8dca2f5d5f33457f635c35.jpg
+142,Triceps,Rope Triceps Pushdown,Intermediate,Upper,Push,C,S,https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Rope-Pushdown-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4
+143,Triceps,Tricep Pushdown,Beginner,Upper,Push,C,S,https://www.cablearmworkout.com/wp-content/uploads/2022/04/Resistance-Band-Tricep-Pushdown.webp
+144,Triceps,V-Bar Tricep Pushdown,Beginner,Upper,Push,C,S,https://global-uploads.webflow.com/5d1d0d3f53ced35a29dbe169/5de7af82dd80e669098c020a_tricep-pushdown-anabolic-aliens.jpg
+145,Glutes,Wide-Stance Leg Press,Intermediate,Lower,Push,MA,M,https://fitstop24.com/media/wide-stance-leg-press_1.jpg.300x250_q95_crop-%2C_filters-detail.jpg
+146,Glutes,Single-Leg Box Squat,Intermediate,Lower,Push,FW,M,https://img.freepik.com/premium-vector/single-leg-box-squats-exercise-woman-workout-fitness-aerobic-exercises_476141-734.jpg?w=2000
+147,Glutes,Wall Squat With Stability Ball,Beginner,Lower,Push,FW,M,https://i.pinimg.com/474x/7c/b7/72/7cb77208f5f5cabfaaa58cd491d828c0--inner-thigh-workouts-thigh-exercises.jpg
+148,Glutes,Hip Thrust,Intermediate,Lower,Push,FW,M,https://uvn-brightspot.s3.amazonaws.com/assets/vixes/h/hip_thrust_con_peso_0.jpg
+149,Glutes,Barbell Sumo Deadlift ,Intermediate,Lower,Push,MA,M,https://weighttraining.guide/wp-content/uploads/2017/02/Barbell-sumo-deadlift-1.png
+150,Glutes,Glute Pushback Machine,Beginner,Lower,Push,MA,M,http://cdn.sweatband.com/cybex_eagle_glute_cybex_eagle_glute.jpg
+151,Forearms,Barbell Reverse Biceps Curl,Intermediate,Upper,Pull,FW,M,https://cdn.shopify.com/s/files/1/0269/5551/3900/files/Reverse-Barbell-Curl_600x600.png?v=1619978270
+152,Forearms,Three-Way Chin-Up Hold,Intermediate,Upper,Pull,MA,M,https://fitnessdailyy.com/wp-content/uploads/2022/03/Three-Way-Chin-Up-Hold.webp
+153,Forearms,Zottman Curl,Intermediate,Upper,Pull,MA,M,https://eresfitness.com/wp-content/uploads/2019/11/Curl-Zottman-con-mancuernas.jpg
+154,Forearms,Wrist Roller,Intermediate,Upper,Pull,MA,M,https://www.gymvisual.com/2567-thickbox_default/wrist-roller.jpg
+155,Forearms,Plate Pinch,Intermediate,Upper,Pull,MA,M,https://www.oldschoollabs.com/wp-content/uploads/2020/09/Plate-Curls2.jpg
