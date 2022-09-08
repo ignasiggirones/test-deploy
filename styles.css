@@ -699,3 +699,7 @@ header i{
     visibility: visible !important;
     opacity: 1 !important;
 }
+
+#Vector_20, #Vector_21{
+    fill: blue;
+}
