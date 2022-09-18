@@ -333,16 +333,3 @@ tippy_buttons.forEach((tippy_btn, i) => {
         arrowType: 'round'
     })
 })
-
-// FLOATING ARROW
-
-const floatArrow = document.querySelector('.fa-circle-down')
-const final = document.querySelector('.searcher')
-floatArrow.addEventListener('click', () => {
-    final.scrollIntoView({block: "end", behavior: "smooth"})
-    floatArrow.classList.remove('visible')
-})
-
-window.addEventListener('scroll', () => {
-    floatArrow.classList.remove('visible')
-})
