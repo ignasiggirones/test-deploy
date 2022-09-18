@@ -87,7 +87,6 @@ function fireUp(){
         }
 
     })
-    document.querySelector('.fa-circle-down').classList.remove('visible')
     lookUpFor(checked_inputs, 'db/exercises_db2.json')
 }
 
