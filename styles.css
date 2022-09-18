@@ -2,7 +2,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', 'sans-serif';
     font-weight: 400;
-    --color-1: rgb(251, 54, 64);
+    --color-1: #fb3640;
     --color-2: #C0BDA5;
     --color-3: #474747;
     --color-4: #1E1E1E;
@@ -10,7 +10,8 @@
 }
 
 body{
-    background-color:var(--color-2);;
+    background-color:var(--color-2);
+    margin: 0;
 }
 
 p{
@@ -187,7 +188,7 @@ input[type="radio"]:checked {
 
 .searcher_input{
     height: 10vh;
-    background-color: var(--color-5);
+    background-color: var(--color-3);
     color: white;
     position: absolute;
     justify-content: center;
@@ -548,8 +549,8 @@ header i{
 
 .fa-circle-down{
     position: absolute;
-    bottom: 30px;
-    left: 50%;
+    bottom: 50px;
+    left: 47.5%;
     transform: translateX(-50%);
     font-size: 46px;
     animation: float 2s ease-in-out infinite;
